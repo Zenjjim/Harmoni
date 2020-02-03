@@ -1,5 +1,5 @@
 # HARMONI
-Team 10 TDAT2003
+### Team 10 TDAT2003
 
 Made a website for concert organizers and artists. Organizers can now minimalize the amount of emails they send, everything from personnel to artist riders is on the site.
 
